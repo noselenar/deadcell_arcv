@@ -1,0 +1,12 @@
+# ninja log v6
+9	1540	7546720046147993	untitled_autogen/timestamp	2363ddf3a35cd915
+9	1540	7546720046147993	untitled_autogen/mocs_compilation.cpp	2363ddf3a35cd915
+9	1540	7546720046147993	D:/projs/personal projects/deadcell_save/ui/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-MinSizeRel/untitled_autogen/timestamp	2363ddf3a35cd915
+9	1540	7546720046147993	D:/projs/personal projects/deadcell_save/ui/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-MinSizeRel/untitled_autogen/mocs_compilation.cpp	2363ddf3a35cd915
+1551	1757	7546720049742725	untitled_autogen/EWIEGA46WW/qrc_resources.cpp	92c10116402c9c87
+1551	1757	7546720049742725	D:/projs/personal projects/deadcell_save/ui/untitled/build/Desktop_Qt_6_8_0_MinGW_64_bit-MinSizeRel/untitled_autogen/EWIEGA46WW/qrc_resources.cpp	92c10116402c9c87
+1796	2198	7546720050501746	CMakeFiles/untitled.dir/untitled_autogen/EWIEGA46WW/qrc_resources.cpp.obj	f036d1b2e26a39e8
+1781	5547	7546720050351708	CMakeFiles/untitled.dir/mainwindow.cpp.obj	ea07d8073280150
+1771	5854	7546720050253576	CMakeFiles/untitled.dir/main.cpp.obj	9f8d0d0c78ad8b74
+1758	5926	7546720050122803	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	dbc20e014800fa
+5926	6170	7546720091805620	untitled.exe	46312ef04d089ed6

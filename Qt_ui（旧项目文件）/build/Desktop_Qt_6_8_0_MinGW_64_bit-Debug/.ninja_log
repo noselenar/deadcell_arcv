@@ -1,0 +1,77 @@
+# ninja log v6
+22	842	7546647797885971	Qt_ui_autogen/timestamp	d69ae433aef5ac5d
+22	842	7546647797885971	D:/projs/personal projects/deadcell_save/Qt_ui/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Qt_ui_autogen/mocs_compilation.cpp	d69ae433aef5ac5d
+22	842	7546647797885971	Qt_ui_autogen/mocs_compilation.cpp	d69ae433aef5ac5d
+4042	4376	7546647830876097	Qt_ui.exe	fe11543cd1854f06
+22	842	7546647797885971	D:/projs/personal projects/deadcell_save/Qt_ui/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Qt_ui_autogen/timestamp	d69ae433aef5ac5d
+843	4042	7546647798886201	CMakeFiles/Qt_ui.dir/Qt_ui_autogen/mocs_compilation.cpp.obj	54c86e023124b55a
+850	4000	7546647798956219	CMakeFiles/Qt_ui.dir/main.cpp.obj	3c142e4ef3412ee2
+858	3829	7546647799036225	CMakeFiles/Qt_ui.dir/mainwindow.cpp.obj	db7901e0ab45f69e
+15	823	7546663961813386	Qt_ui_autogen/timestamp	d69ae433aef5ac5d
+15	823	7546663961813386	Qt_ui_autogen/mocs_compilation.cpp	d69ae433aef5ac5d
+15	823	7546663961813386	D:/projs/personal projects/deadcell_save/Qt_ui/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Qt_ui_autogen/timestamp	d69ae433aef5ac5d
+15	823	7546663961813386	D:/projs/personal projects/deadcell_save/Qt_ui/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Qt_ui_autogen/mocs_compilation.cpp	d69ae433aef5ac5d
+841	3984	7546663962813624	CMakeFiles/Qt_ui.dir/mainwindow.cpp.obj	db7901e0ab45f69e
+833	4350	7546663962733593	CMakeFiles/Qt_ui.dir/main.cpp.obj	3c142e4ef3412ee2
+824	4352	7546663962643577	CMakeFiles/Qt_ui.dir/Qt_ui_autogen/mocs_compilation.cpp.obj	54c86e023124b55a
+4352	4740	7546663997922731	Qt_ui.exe	fe11543cd1854f06
+12	884	7546669834021062	Qt_ui_autogen/timestamp	d69ae433aef5ac5d
+12	884	7546669834021062	Qt_ui_autogen/mocs_compilation.cpp	d69ae433aef5ac5d
+12	884	7546669834021062	D:/projs/personal projects/deadcell_save/Qt_ui/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Qt_ui_autogen/timestamp	d69ae433aef5ac5d
+12	884	7546669834021062	D:/projs/personal projects/deadcell_save/Qt_ui/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Qt_ui_autogen/mocs_compilation.cpp	d69ae433aef5ac5d
+904	3961	7546669835758966	CMakeFiles/Qt_ui.dir/mainwindow.cpp.obj	db7901e0ab45f69e
+893	4341	7546669835658962	CMakeFiles/Qt_ui.dir/main.cpp.obj	3c142e4ef3412ee2
+885	4356	7546669835568930	CMakeFiles/Qt_ui.dir/Qt_ui_autogen/mocs_compilation.cpp.obj	54c86e023124b55a
+4356	4749	7546669870291377	Qt_ui.exe	fe11543cd1854f06
+14	799	7546670496675349	Qt_ui_autogen/timestamp	d69ae433aef5ac5d
+14	799	7546670496675349	Qt_ui_autogen/mocs_compilation.cpp	d69ae433aef5ac5d
+14	799	7546670496675349	D:/projs/personal projects/deadcell_save/Qt_ui/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Qt_ui_autogen/timestamp	d69ae433aef5ac5d
+14	799	7546670496675349	D:/projs/personal projects/deadcell_save/Qt_ui/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Qt_ui_autogen/mocs_compilation.cpp	d69ae433aef5ac5d
+814	3743	7546670497645557	CMakeFiles/Qt_ui.dir/mainwindow.cpp.obj	db7901e0ab45f69e
+807	4057	7546670497575538	CMakeFiles/Qt_ui.dir/main.cpp.obj	3c142e4ef3412ee2
+799	4059	7546670497495519	CMakeFiles/Qt_ui.dir/Qt_ui_autogen/mocs_compilation.cpp.obj	54c86e023124b55a
+4059	4440	7546670530100230	Qt_ui.exe	fe11543cd1854f06
+12	828	7546673509562394	Qt_ui_autogen/timestamp	d69ae433aef5ac5d
+12	828	7546673509562394	Qt_ui_autogen/mocs_compilation.cpp	d69ae433aef5ac5d
+12	828	7546673509562394	D:/projs/personal projects/deadcell_save/Qt_ui/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Qt_ui_autogen/timestamp	d69ae433aef5ac5d
+12	828	7546673509562394	D:/projs/personal projects/deadcell_save/Qt_ui/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Qt_ui_autogen/mocs_compilation.cpp	d69ae433aef5ac5d
+846	4224	7546673510698423	CMakeFiles/Qt_ui.dir/mainwindow.cpp.obj	db7901e0ab45f69e
+829	4568	7546673510538398	CMakeFiles/Qt_ui.dir/Qt_ui_autogen/mocs_compilation.cpp.obj	54c86e023124b55a
+837	4591	7546673510618398	CMakeFiles/Qt_ui.dir/main.cpp.obj	3c142e4ef3412ee2
+4591	4965	7546673548153788	Qt_ui.exe	fe11543cd1854f06
+11	727	7546673820984385	Qt_ui_autogen/timestamp	d69ae433aef5ac5d
+11	727	7546673820984385	Qt_ui_autogen/mocs_compilation.cpp	d69ae433aef5ac5d
+11	727	7546673820984385	D:/projs/personal projects/deadcell_save/Qt_ui/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Qt_ui_autogen/timestamp	d69ae433aef5ac5d
+11	727	7546673820984385	D:/projs/personal projects/deadcell_save/Qt_ui/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Qt_ui_autogen/mocs_compilation.cpp	d69ae433aef5ac5d
+743	3639	7546673821954614	CMakeFiles/Qt_ui.dir/mainwindow.cpp.obj	db7901e0ab45f69e
+736	4029	7546673821884597	CMakeFiles/Qt_ui.dir/main.cpp.obj	3c142e4ef3412ee2
+728	4057	7546673821804575	CMakeFiles/Qt_ui.dir/Qt_ui_autogen/mocs_compilation.cpp.obj	54c86e023124b55a
+4057	4405	7546673855093962	Qt_ui.exe	fe11543cd1854f06
+11	678	7546678744787112	Qt_ui_autogen/timestamp	d69ae433aef5ac5d
+11	678	7546678744787112	Qt_ui_autogen/mocs_compilation.cpp	d69ae433aef5ac5d
+11	678	7546678744787112	D:/projs/personal projects/deadcell_save/Qt_ui/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Qt_ui_autogen/timestamp	d69ae433aef5ac5d
+11	678	7546678744787112	D:/projs/personal projects/deadcell_save/Qt_ui/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Qt_ui_autogen/mocs_compilation.cpp	d69ae433aef5ac5d
+14	919	7546680197984721	Qt_ui_autogen/timestamp	d69ae433aef5ac5d
+14	919	7546680197984721	Qt_ui_autogen/mocs_compilation.cpp	d69ae433aef5ac5d
+14	919	7546680197984721	D:/projs/personal projects/deadcell_save/Qt_ui/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Qt_ui_autogen/timestamp	d69ae433aef5ac5d
+14	919	7546680197984721	D:/projs/personal projects/deadcell_save/Qt_ui/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Qt_ui_autogen/mocs_compilation.cpp	d69ae433aef5ac5d
+937	4142	7546680199475074	CMakeFiles/Qt_ui.dir/mainwindow.cpp.obj	db7901e0ab45f69e
+928	4540	7546680199385036	CMakeFiles/Qt_ui.dir/main.cpp.obj	3c142e4ef3412ee2
+920	4547	7546680199305019	CMakeFiles/Qt_ui.dir/Qt_ui_autogen/mocs_compilation.cpp.obj	54c86e023124b55a
+4547	4939	7546680235571638	Qt_ui.exe	fe11543cd1854f06
+11	666	7546684048666005	Qt_ui_autogen/timestamp	d69ae433aef5ac5d
+11	666	7546684048666005	Qt_ui_autogen/mocs_compilation.cpp	d69ae433aef5ac5d
+11	666	7546684048666005	D:/projs/personal projects/deadcell_save/Qt_ui/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Qt_ui_autogen/timestamp	d69ae433aef5ac5d
+11	666	7546684048666005	D:/projs/personal projects/deadcell_save/Qt_ui/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Qt_ui_autogen/mocs_compilation.cpp	d69ae433aef5ac5d
+680	3350	7546684049486198	CMakeFiles/Qt_ui.dir/mainwindow.cpp.obj	db7901e0ab45f69e
+673	3743	7546684049416177	CMakeFiles/Qt_ui.dir/main.cpp.obj	3c142e4ef3412ee2
+666	3744	7546684049346161	CMakeFiles/Qt_ui.dir/Qt_ui_autogen/mocs_compilation.cpp.obj	54c86e023124b55a
+3745	4105	7546684080127115	Qt_ui.exe	fe11543cd1854f06
+11	783	7546686466807720	Qt_ui_autogen/timestamp	d69ae433aef5ac5d
+11	783	7546686466807720	Qt_ui_autogen/mocs_compilation.cpp	d69ae433aef5ac5d
+11	783	7546686466807720	D:/projs/personal projects/deadcell_save/Qt_ui/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Qt_ui_autogen/timestamp	d69ae433aef5ac5d
+11	783	7546686466807720	D:/projs/personal projects/deadcell_save/Qt_ui/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Qt_ui_autogen/mocs_compilation.cpp	d69ae433aef5ac5d
+801	3963	7546686468378159	CMakeFiles/Qt_ui.dir/mainwindow.cpp.obj	db7901e0ab45f69e
+784	4414	7546686468218193	CMakeFiles/Qt_ui.dir/Qt_ui_autogen/mocs_compilation.cpp.obj	54c86e023124b55a
+792	4446	7546686468288136	CMakeFiles/Qt_ui.dir/main.cpp.obj	3c142e4ef3412ee2
+4446	4800	7546686504831724	Qt_ui.exe	fe11543cd1854f06
